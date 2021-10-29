@@ -13,30 +13,22 @@
     font-size:300%;
 }
 
-#subject {
+p {
     font-size:150%;
 }
 
-#contact-info {
-  
+.contact-info{
     list-style: none;
-    margin: 10px 30px;
-    display: inline-block;
-    font-size:40px;
-    padding:20px 20px;
-    color:rgb(255, 255, 218);
-
+    display: inline;
 }
-#contact-info:hover {
+.contact-info:hover {
     color:black;
 }
 
-#contact-nav{
-   padding-left: 35%;
-}
+
 
 section{
-    height: 100vh;
+    height: 80vh;
     width:100%;
     display: flex;
     align-items: center;
@@ -44,7 +36,7 @@ section{
 }
 .container-form {
     Width: 90%;
-    max-width: 500px;
+    max-width: 800px;
     margin: 20px auto;
     padding: 20px;
     background-color: rgb(66, 66, 66);
@@ -85,6 +77,3 @@ button:hover{
     cursor:pointer;
 }
 
-i {
-    size: 300%
-}
