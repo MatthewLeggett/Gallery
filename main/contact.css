@@ -6,15 +6,15 @@
     color:rgb(255, 255, 218);
 }
 #main-title {
-    font-size:600%
+    font-size:600%;
 }
 
 #subtitle {
-    font-size:300%
+    font-size:300%;
 }
 
 #subject {
-    font-size:150%
+    font-size:150%;
 }
 
 #contact-info {
@@ -24,7 +24,7 @@
     display: inline-block;
     font-size:40px;
     padding:20px 20px;
-    color:bisque   
+    color:rgb(255, 255, 218);
 
 }
 #contact-info:hover {
@@ -32,7 +32,7 @@
 }
 
 #contact-nav{
-   padding-left: 35% 
+   padding-left: 35%;
 }
 
 section{
