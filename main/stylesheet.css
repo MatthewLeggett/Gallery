@@ -47,7 +47,7 @@ nav ul {
 nav li {
     display:inline-block;
     margin-left: 50px;
-    color:rgb(255, 255, 218)te;
+    color:rgb(255, 255, 218);
     padding-top:25px;
     }
 
@@ -65,7 +65,7 @@ nav a:hover{
 
 footer{
     height: 150px;
-    color:black;
+    background-color:black;
 }
 
 .socials {
