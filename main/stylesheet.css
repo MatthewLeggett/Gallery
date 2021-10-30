@@ -65,12 +65,16 @@ nav a:hover{
 
 footer{
     height: 150px;
-    background-color:black;
+    background-color:rgb(66, 66, 66);
+    
+
 }
 
 .socials {
   
   text-align: center;
+  display: inline-block;
+  color:rgb(255, 255, 218);
 }
 
 
