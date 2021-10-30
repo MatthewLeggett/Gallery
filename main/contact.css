@@ -20,6 +20,9 @@ p {
 .contact-info{
     list-style: none;
     display: inline;
+    text-align:center;
+    font-size:28px;
+    color:rgb(255, 255, 218);
 }
 .contact-info:hover {
     color:black;

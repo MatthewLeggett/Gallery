@@ -18,6 +18,10 @@ h3{
 p{
     font-size: 22px;
 }
+.purchase{
+    text-transform:none;
+    
+}
 
 section{
     height: 100vh;
