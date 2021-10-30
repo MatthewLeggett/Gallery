@@ -79,7 +79,6 @@ footer{
 
 .socials-icon {
     padding: 10%;
-    color:blanchedalmond;
     display: inline;
     padding-bottom:0px;
 }
@@ -111,6 +110,16 @@ footer{
     nav li {
         padding-top:10px;
     }
+
+    .socials {
+        font-size: 30px;
+        padding-top:50px;
+      }
+      
+    .socials-icon {
+          padding: 7%;
+          padding-bottom:0px;
+      }
 }
 @media only screen and (max-width: 510px) {
 
@@ -141,4 +150,8 @@ footer{
     nav a {
          font-size: 90%;
         }
+
+    .socials {
+        padding-top:60px;
+          }
 }

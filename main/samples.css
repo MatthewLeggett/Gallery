@@ -29,3 +29,21 @@ p{
     padding: 12px;
 
 }
+
+@media only screen and (max-width: 768px) {
+    .sample-container {
+        width: 80%;
+        padding: 10px;
+    
+    }
+}
+
+@media only screen and (max-width: 510px) {
+
+    .sample-container {
+        width: 90%;
+        padding: 8px;
+    
+    }
+    
+}
