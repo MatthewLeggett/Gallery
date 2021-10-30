@@ -16,15 +16,27 @@
 p {
     font-size:150%;
 }
-
-.contact-info{
-    list-style: none;
-    display: inline;
-    text-align:center;
-    font-size:28px;
-    color:rgb(255, 255, 218);
+#socials-div{
+    width:100%;   
+    text-align: center;
 }
-.contact-info:hover {
+#socials-list{
+    list-style:none;
+    color:rgb(255, 255, 218);
+    margin: auto;
+}
+.social-link{
+    font-size: 60px;
+    display: inline;
+    padding: 60px;
+    margin: auto;
+
+}
+
+.social-link i {
+    color:rgb(166, 224, 192)
+}
+.social-link i:hover {
     color:black;
 }
 

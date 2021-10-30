@@ -66,23 +66,30 @@ nav a:hover{
 footer{
     height: 150px;
     background-color:rgb(66, 66, 66);
+    
 }
 
 .socials {
   list-style:none;
   text-align: center;
-  display: inline-block;
-  color:rgb(255, 255, 218);
-  font-size: 28px;
+  font-size: 60px;
+  margin: auto;
+  padding-top:50px;
 }
 
 .socials-icon {
-    padding-left: 30px;
+    padding: 10%;
     color:blanchedalmond;
+    display: inline;
+    padding-bottom:0px;
+}
+.socials-icon i {
+    color:rgb(255, 255, 218);
 }
 
-
-
+.socials-icon i:hover {
+    color:black;
+}
 
 
 
