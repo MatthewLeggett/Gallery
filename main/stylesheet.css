@@ -69,13 +69,17 @@ footer{
 }
 
 .socials {
-  
+  list-style:none;
   text-align: center;
   display: inline-block;
   color:rgb(255, 255, 218);
+  font-size: 28px;
 }
 
-
+.socials-icon {
+    padding-left: 30px;
+    color:blanchedalmond;
+}
 
 
 
