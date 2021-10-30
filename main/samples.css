@@ -5,7 +5,7 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 h1 {
-    font-size: 35px;
+    font-size: 29px;
 }
 
 div {
@@ -36,14 +36,49 @@ p{
         padding: 10px;
     
     }
+    h1 {
+        font-size: 20px;
+    }
+    
+    div {
+        text-align: center;
+        padding-bottom: 22px;
+        margin:auto
+    }
+    h3{
+        font-size: 18px;
+    }
+    p{
+        font-size: 14px;
+        text-transform: none;
+    }
 }
 
-@media only screen and (max-width: 510px) {
+
+
+@media only screen and (max-width: 375px) {
 
     .sample-container {
         width: 90%;
         padding: 8px;
     
+    }
+
+    h1 {
+        font-size: 18px;
+    }
+    
+    div {
+        text-align: center;
+        padding-bottom: 22px;
+        margin:auto
+    }
+    h3{
+        font-size: 14px;
+    }
+    p{
+        font-size: 12px;
+        text-transform: none;
     }
     
 }

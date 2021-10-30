@@ -39,7 +39,22 @@ FEATURES
 
         This page also provides the user with ability to send an email to the artists management team to book him for events and enquire about any other professional opportunities. (the form is set up on the website however the backend is not fully functional and therefor no data is currently captured when the user submits).
 
-        
+The site is designed to fit screen sizes 1280px wide, 768px wide and 375px wide. Further work will need to be done to increase supported screen sizes. To test the usability of the site at each size I used the F12 key to enter the console and from there I could check the different screen resolutions. After testing I made adjustments to the CSS file to correct any issues and re-tested using the same method.
+
+For the smaller screen sizes I have made a conscious effort to make any buttons spaced far enough apart to, make it useable with touchscreens.
+
+Features left to implement
+    Music videos could be supported on the samples page when the artist produces them.
+    
+    I would like to implement some subtle animations using Javascript to elevate the site and make transitions more seemless.
+
+
+
+
+
+
+Testing 
+
 
 
 

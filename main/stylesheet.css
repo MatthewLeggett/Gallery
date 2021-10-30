@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    width: 40%;
+    width: 60%;
     margin:0 auto;
 }
 
@@ -84,6 +84,7 @@ footer{
 }
 .socials-icon i {
     color:rgb(255, 255, 218);
+    font-size: 50px;
 }
 
 .socials-icon i:hover {
@@ -120,29 +121,35 @@ footer{
           padding: 7%;
           padding-bottom:0px;
       }
+     .socials-icon a{
+        font-size: 60px;
+        }
 }
-@media only screen and (max-width: 510px) {
+@media only screen and (max-width: 375px) {
 
     .container {
         justify-content: center;
         margin:0 auto;
         padding-bottom: 8px;
-        width: 45%;
+        width: 100%;
     }
     .logo {
         justify-content: center;
         color:rgb(255, 255, 218);
         font-size: 300%;
+        padding-left: 22%;
         }
     nav ul {
         display:grid;
         grid-template-columns: repeat(2, 90px);
         grid-column-gap: 15px;
         justify-items: center;
-        padding-top:27px;
+        padding-top:5px;
+        padding-left:22%;
     }
     nav li {
-        padding-top:10px;
+        padding-top:30px;
+        padding-bottom:20px;
         display:block;
         margin-left: 0px;
         color:rgb(255, 255, 218);
@@ -155,3 +162,6 @@ footer{
         padding-top:60px;
           }
 }
+    .socials-icon a{
+    font-size: 10px;
+    }
