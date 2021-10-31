@@ -55,8 +55,16 @@ Features left to implement
 
 Testing 
 
+ - The social media icons need to be adjusted to be smaller screen size, the CSS code for this is not working in the stylesheet. this will be fixed in the next update.
+
+ - I ran into some issue when pushing to github. I had put all of the html files in a folder named "main" and the landing age was called "home.html" this meant that Github was only finding the Readme.md file and not my home page. to rectify this I took the html files out of the folder and renamed the landing page to index.html - this solved the issue after the updates were pushed to Github.
 
 
+Unfixed Bugs
+
+
+
+Credits
 
 
      
